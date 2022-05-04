@@ -18,7 +18,7 @@ Push to your own repo and link to [vercel](https://vercel.io).
 
 ## Setup Finished Project
 
-For the finished version of this project, go to [the last branch](https://github.com/alamorre/nextjs-chat-tutorial/tree/3-chats).
+For the finished version of this project, go to [the last branch](https://github.com/Russomteklay/chat).
 
 Go to [Chat Engine](https://chatengine.io) and create a account and project.
 
